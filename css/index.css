@@ -1,0 +1,30 @@
+#sep-bottom-6 .bg-wrap {
+    background-color: rgba(255, 255, 255, 0);
+}     #sep-bottom-6--0 .bg-wrap {
+    background-color: rgba(255, 255, 255, 0);
+}     #sep-bottom-6--1 .bg-wrap {
+    background-color: rgba(255, 255, 255, 0);
+}     #header-text-text .bg {
+    background-image: url('../images/bg-29.jpg');
+    background-repeat: no-repeat;
+    background-position: center bottom;
+    background-size: cover;
+    opacity: 0.25;
+}#sep-center-1 .bg-wrap {
+    background-color: rgba(255, 255, 255, 0);
+}#sep-center-5 .bg-wrap {
+    background-color: rgba(255, 255, 255, 0);
+}#action-text-btn-2 .bg {
+    background-image: url('../images/map.png');
+    background-repeat: no-repeat;
+    background-position: center bottom;
+    background-size: 50% auto;
+    opacity:0.4;
+}
+#footer-logo-text-2 .bg {
+    background-image: url('../images/bg-pattern-1-primary.png');
+    background-repeat: no-repeat;
+    background-position: right bottom;
+    background-size: auto;
+    opacity:0.05;
+}
